@@ -1,0 +1,23 @@
+.container {
+	height: 800px;
+	width: 800px;
+	border: 2px solid rgb(84, 158, 255);
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.board {
+	border: 1.5px solid black;
+	box-sizing: border-box;
+}
+
+.button-container {
+	padding: 15px;
+}
+
+button {
+	font-size: 25px;
+	text-align: center;
+	padding: 5px 15px;
+	border-radius: 15px;
+}
